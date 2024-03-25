@@ -1,0 +1,23 @@
+Información del zoo
+Aves
+Nombre: Gorrion
+Peso: 5.0
+Altura: 2.0
+El tiempo de incubación es: 20
+Es animal de compañia: NO
+Nombre: Canario
+Peso: 3.0
+Altura: 1.0
+El tiempo de incubación es: 12
+Es animal de compañia: SI
+Mamiferos
+Nombre: Vaca
+Peso: 150.0
+Altura: 120.0
+El tiempo de incubación es: 150
+Es animal de compañia: NO
+Nombre: Pero
+Peso: 20.0
+Altura: 30.0
+El tiempo de incubación es: 150
+Es animal de compañia: SI
